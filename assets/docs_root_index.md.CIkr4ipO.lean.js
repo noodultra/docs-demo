@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o}from"./chunks/framework.B4F_pDg-.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/root/index.md","filePath":"docs/root/index.md"}'),r={name:"docs/root/index.md"};function a(n,s,c,d,i,p){return t(),o("div")}const f=e(r,[["render",a]]);export{m as __pageData,f as default};

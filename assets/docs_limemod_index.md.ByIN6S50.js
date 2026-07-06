@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o}from"./chunks/framework.B4F_pDg-.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/limemod/index.md","filePath":"docs/limemod/index.md"}'),a={name:"docs/limemod/index.md"};function d(n,s,c,r,i,m){return t(),o("div")}const l=e(a,[["render",d]]);export{_ as __pageData,l as default};
